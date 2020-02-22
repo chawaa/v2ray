@@ -423,12 +423,13 @@ uninstall_wp(){
 
 start_menu(){
     clear
-    green "=================================================="
-    green " 介绍：适用CentOS7，一键安装wordpress+v2ray_ws_tls"
-    green " 作者：atrandys"
-    green " 网站：www.atrandys.com"
-    green " Youtube：Randy's 堡垒"
-    green "=================================================="
+    green " ===================================="
+    green " 介绍：一键安装v2ray+ws+tls           "
+    green " 系统：centos7                       "
+    green " 作者：天工开物                       "
+    green " 网站：www.heidongwang.top           "
+    green " 公众号：黑洞宅                       "
+    green " ===================================="
     green "1. 安装wordpress+v2ray_ws_tls"
     red "2. 卸载wordpress+v2ray_ws_tls"
     yellow "0. 退出脚本"
